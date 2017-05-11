@@ -48,12 +48,12 @@ var Footer = React.createClass({
 					</a>
 					<span> powered by </span>
 					<a
-						href="http://keystonejs.com"
+						href="https://remedynow.net"
 						target="_blank"
 						className={css(classes.link)}
 						tabIndex="-1"
 					>
-						KeystoneJS
+						RemedyNow
 					</a>
 					<span> version {version}.</span>
 					{this.renderUser()}
